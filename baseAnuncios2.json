@@ -1,30 +1,37 @@
 [
     {
       "image":"https://image.freepik.com/free-photo/tortilla-with-mix-ingredients_62847-293.jpg",
-      "name":"Hamburguesas del sur",
+      "name":"Los mejores burritos",
       "phone":"Pedidos: 0992664501",
       "descri":"9/10 Delicioso",    
       "valor":0.9
     },
     {
      "image":"https://image.freepik.com/free-photo/hand-dipping-nachos-guacamole_23-2148181601.jpg",
-     "name":"Hamburguesas del sur",
+     "name":"Nachos de promocion",
      "phone":"Pedidos: 0992664501",
      "descri":"5/10 Delicioso",  
      "valor":0.5
     },
     {
      "image":"https://image.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
-     "name":"Hamburguesas del sur",
+     "name":"Las mejores salchis",
      "phone":"Pedidos: 0992664501",
      "descri":"5/10 Delicioso",  
      "valor":0.5
     } ,
     {
      "image":"https://image.freepik.com/free-photo/fried-chicken-with-french-fries-nuggets-meal_1339-71599.jpg",
-     "name":"Hamburguesas del sur",
+     "name":"Pollo broster",
      "phone":"Pedidos: 0992664501",
      "descri":"5/10 Delicioso",  
      "valor":0.5
-    } 	
+    },
+    {
+     "image":"https://image.freepik.com/free-photo/pepperoni-pizza-isolated-white_317111-21.jpg",
+     "name":"La mejor pizza",
+     "phone":"Pedidos: 0992664501",
+     "descri":"5/10 Delicioso",  
+     "valor":0.5
+    } 
 ]
