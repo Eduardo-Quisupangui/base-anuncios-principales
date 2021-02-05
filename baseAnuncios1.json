@@ -19,5 +19,12 @@
      "phone":"Pedidos: 0992664501",
      "descri":"5/10 Comcurrido",  
      "valor":0.5
+    } ,
+    {
+     "image":"https://image.freepik.com/free-psd/food-social-media-banner-post-template_202595-365.jpg",
+     "name":"Hamburguesas del sur",
+     "phone":"Pedidos: 0992664501",
+     "descri":"10/10 Comcurrido",  
+     "valor":1
     } 
   ]
