@@ -19,19 +19,5 @@
      "phone":"Pedidos: 0992664501",
      "descri":"5/10 Delicioso",  
      "valor":0.5
-    } ,
-    {
-     "image":"https://image.freepik.com/free-photo/fried-chicken-with-french-fries-nuggets-meal_1339-71599.jpg",
-     "name":"Pollo broster",
-     "phone":"Pedidos: 0992664501",
-     "descri":"5/10 Delicioso",  
-     "valor":0.5
-    },
-    {
-     "image":"https://image.freepik.com/free-photo/pepperoni-pizza-isolated-white_317111-21.jpg",
-     "name":"La mejor pizza",
-     "phone":"Pedidos: 0992664501",
-     "descri":"5/10 Delicioso",  
-     "valor":0.5
     } 
 ]
