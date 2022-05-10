@@ -10,21 +10,21 @@
      "image":"https://image.freepik.com/free-photo/hand-dipping-nachos-guacamole_23-2148181601.jpg",
      "name":"Nachos de promocion",
      "phone":"Pedidos: 0992664501",
-     "descri":"100/10 Delicioso",  
+     "descri":"0/10 Delicioso",  
      "valor":0.5
     },
     {
      "image":"https://image.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
      "name":"Las mejores salchis",
      "phone":"Pedidos: 0992664501",
-     "descri":"100/10 Delicioso",  
+     "descri":"0/10 Delicioso",  
      "valor":0.5
     } ,
     {
      "image":"https://image.freepik.com/free-photo/pepperoni-pizza-isolated-white_317111-21.jpg",
      "name":"La mejor pizza",
      "phone":"Pedidos: 0992664501",
-     "descri":"100/10 Delicioso",  
+     "descri":"0/10 Delicioso",  
      "valor":0.5
     } 
 ]
