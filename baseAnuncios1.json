@@ -3,42 +3,42 @@
       "image":"https://i.pinimg.com/564x/a2/da/06/a2da06141f552eed3c3dc13bc5f8aeba.jpg",
       "name":"La Delicias de Don Viche",
       "phone":"Pedidos: -",
-      "descri":"9.7/10 Comcurrido",    
+      "descri":"9.7/10 Concurrido",    
       "valor":0.97
     },
    {
       "image":"https://i.pinimg.com/564x/4d/83/13/4d8313fec9e80a24eddf6ce830fc90bb.jpg",
       "name":"Huma Beer",
       "phone":"Pedidos: 0969170808",
-      "descri":"10/10 Comcurrido",    
+      "descri":"10/10 Concurrido",    
       "valor":1
     },
     {
       "image":"https://i.pinimg.com/564x/d0/7e/2d/d07e2d8c26d3927ddf42c04977ba35db.jpg",
       "name":"WAM Waffles",
       "phone":"Pedidos: -",
-      "descri":"9.9/10 Comcurrido",    
+      "descri":"9.9/10 Concurrido",    
       "valor":0.99
     },
     {
      "image":"https://i.pinimg.com/564x/2d/06/8f/2d068ff949af248abc9fe7e243dc84c5.jpg",
      "name":"Dulceria Colonial",
      "phone":"Pedidos: -",
-     "descri":"10/10 Comcurrido",  
+     "descri":"10/10 Concurrido",  
      "valor":1.0
     } ,
     {
      "image":"https://i.pinimg.com/564x/77/69/e7/7769e7769929bd7d68cc9609c2e3751e.jpg",
      "name":"Helados CONO-COTO",
      "phone":"Pedidos: -",
-     "descri":"10/10 Comcurrido",  
+     "descri":"10/10 Concurrido",  
      "valor":1.0
     } ,
     {
      "image":"https://i.pinimg.com/564x/d9/c5/c3/d9c5c3f3c58c29f8e136de5f99ecb560.jpg",
      "name":"Pizzas Delicia de Pitter",
      "phone":"Pedidos: -",
-     "descri":"9.4/10 Comcurrido",  
+     "descri":"9.4/10 Concurrido",  
      "valor":0.94
     } 
   ]
